@@ -1,6 +1,6 @@
 # milkymood
 
-A website created using React.js
+A website created using React.js as part of the SuperHi foundations to React.js course
 
 Uses events and effect hooks alongside state.
 
